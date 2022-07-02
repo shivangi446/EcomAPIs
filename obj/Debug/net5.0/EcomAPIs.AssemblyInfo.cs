@@ -11,11 +11,11 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("EcomAPIs")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Confiance Marketing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("EcomAPIs")]
+[assembly: System.Reflection.AssemblyProductAttribute("Bosk n Hosk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EcomAPIs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
